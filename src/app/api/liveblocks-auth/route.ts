@@ -5,7 +5,7 @@ const USER_INFO = [
     {
       name: "Si Thu Phyo",
       color: "#D583F0",
-      picture: "https://github.com/Sachin-chaurasiya.png",
+      picture: "https://avatars.githubusercontent.com/u/88924444?v=4&size=64",
     },
     {
       name: "Mislav Abha",
